@@ -71,8 +71,8 @@ export default function Header1({ scroll, isMobileMenu, handleMobileMenu, handle
 						<div className="header-left">
 							<div className="header-logo">
 								<Link className="d-flex" href="/">
-									<img className="light-mode" alt="Carento" src="/assets/imgs/template/icons/Logo.svg" />
-									<img className="dark-mode" alt="Carento" src="/assets/imgs/template/icons/Logo.svg" />
+									<img className="light-mode" alt="Carento" src="/assets/imgs/template/MotorLogo.svg" />
+									<img className="dark-mode" alt="Carento" src="/assets/imgs/template/MotorLogo.svg" />
 								</Link>
 							</div>
 							<div className="header-nav">
