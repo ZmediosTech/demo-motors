@@ -90,7 +90,7 @@ export default function Footer1() {
 					<div className="footer-bottom mt-50">
 						<div className="row align-items-center justify-content-center">
 							<div className="col-md-6 text-md-start text-center mb-20">
-								<p className="text-sm color-white">© {new Date().getFullYear()} Carento Inc. All rights reserved.</p>
+								<p className="text-sm color-white">© {new Date().getFullYear()} MotorFinder.ai All rights reserved.</p>
 							</div>
 							<div className="col-md-6 text-md-end text-center mb-20">
 								<div className="d-flex align-items-center justify-content-center justify-content-md-end">
