@@ -25,8 +25,8 @@ export default function Footer1() {
 						<div className="col-md-3 col-sm-12 footer-1">
 							<div className="mt-20 mb-20">
 								<Link className="d-flex" href="/">
-									<img className="light-mode" alt="Carento" src="/assets/imgs/template/icons/Logo.svg" />
-									<img className="dark-mode" alt="Carento" src="/assets/imgs/template/icons/Logo.svg" />
+									<img className="light-mode" alt="Carento" src="/assets/imgs/template/MotorLogo.svg" />
+									<img className="dark-mode" alt="Carento" src="/assets/imgs/template/MotorLogo.svg" />
 								</Link>
 								<div className="box-info-contact mt-0">
 									<p className="text-md neutral-400 icon-address">MIQB, sector 58 Noida</p>
