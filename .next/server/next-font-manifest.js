@@ -1,0 +1,1 @@
+self.__NEXT_FONT_MANIFEST="{\"pages\":{},\"app\":{\"/Users/arihantjain/Documents/MotorsTheme/demo-motors/app/layout\":[\"static/media/01af0fc7b4278e65-s.p.woff2\"]},\"appUsingSizeAdjust\":true,\"pagesUsingSizeAdjust\":false}"
